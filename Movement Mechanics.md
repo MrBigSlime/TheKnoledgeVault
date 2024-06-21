@@ -1,2 +1,2 @@
 ## Rallentamenti
-- ogni att
+- ogni
