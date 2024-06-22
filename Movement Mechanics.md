@@ -10,6 +10,8 @@
 > __Dimenticare il tasto "s"__, per andare indietro girarsi di 90° e usare "a" e "d"
 > 
 > __"x" per disequipaggiare le armi__ questo ti rende __sempre__ più veloce di un nemico con le armi in mano
+> 
+> __Esiste il b-hopping__ utilizzare per mantenere il momentum mentre si è rallentato
 
 >[!tip | c-p-lg] Schivare
 > si può __manipolare il corpo__ per evitare attacchi
