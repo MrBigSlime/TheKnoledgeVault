@@ -11,7 +11,7 @@
 > 
 > __"x" per disequipaggiare le armi__ questo ti rende __sempre__ più veloce di un nemico con le armi in mano
 
->[!tip] Schivare
+>[!tip | c-p-lg] Schivare
 > si può __manipolare il corpo__ per evitare attacchi
 > - jump crouching
 > - crouching looking down
@@ -19,7 +19,7 @@
 > __essenziale in pvp__
 > - essenziale rendersi imprevedibili
 
->[!warning] Kiting
+>[!warning | no-i c-p-lg] Kiting
 > il tenersi a distanza per evitare gli attacchi nemici
 > PVE __evitare l'attacco e rispondere__
 > - attaccare e __allontanarsi__
@@ -27,6 +27,7 @@
 > di solito una delle due tecniche funziona o una combinazione, 
 > __evitare gli attacchi o pararli è ancora più efficiente__
 
+<br>
 
 ## Ranged
 Preferire ambienti aperti e molto spazio per farsi inseguire
@@ -34,14 +35,13 @@ Preferire ambienti aperti e molto spazio per farsi inseguire
 >>[!warning|no-i] Spacing
 >> mantenersi sempre abbastanza lontani per __non essere presi mentre si carica il colpo__ dopo
 >
->>[!tip| no-i] Usare l'environment
+>>[!tip| no-i c-p-med] Usare l'environment
 >> porte e strettoie sono __colpi gratuiti__
 >> - sopratutto per evitare coltelli da lancio o asce che rallentano
 
->[!fail|no-i] Non sprecare risorse
-> se si usano tante risorse ci sara più downtime
-> - consigliato rimanere con i caster almeno due copie di ogni magia per le evenienze
-> - definire spell solo per il pvp da aver sempre pronte
+
+
+<br>
 
 ## Melee
 Preferire ambienti stretti e mettere i nemici al angolo
@@ -68,6 +68,6 @@ tre punti principali:
 > - se si ha la velocità far credere al nemico che si è in range e farlo __swingare a vuoto garantisce una finestra di attacco__
 > 	- mini rincorsa + salto + attacco
 
->[!fail| no-i] Abilità
+>[!fail| no-i c-p-med] Abilità
 > le abilità che servono per gap-close come sprint per il guerriero
 > - utili usati anche da vicino per confondere l'avversario

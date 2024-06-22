@@ -1,3 +1,6 @@
 {
-  "livePreview": false
+  "livePreview": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "z_Attachments",
+  "attachmentFolderPath": "z_Attachments"
 }
