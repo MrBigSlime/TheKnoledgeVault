@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movement Mechanics.md",
+                "file": "Statistics.md",
                 "mode": "preview",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement Mechanics.md",
+                "file": "Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movement Mechanics.md",
+                "file": "Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movement Mechanics.md"
+                "file": "Statistics.md"
               }
             }
           },
@@ -218,11 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e092c6571d36b209",
+  "active": "a3a640ed8a2827cf",
   "lastOpenFiles": [
+    "Statistics.pdf",
+    "Movement Mechanics.md",
+    "Movement Mechanics.pdf",
     "README.md",
     "Statistics.md",
-    "Movement Mechanics.md",
     "z_Attachments/Pasted image 20240622153844.png",
     "Fighter.md",
     "Wizard.md",
