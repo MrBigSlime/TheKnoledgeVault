@@ -48,20 +48,28 @@ Lo scaling delle statistiche varia in base al intervallo, quindi si hanno dimini
 >[!danger|no-i]- esempio 
 > ![[Pasted image 20240622153844.png|wm-sm]]
 
+> Nota
+> tutte le statistiche __sotto a 15 punti, avranno degli effetti negativi__ nei loro campi
+> bassa resourcefulness -> aprire porte e casse sara piu lento
+
 >[!column|no-i no-t]
 >>[!note|no-i] Strength
 >>Governa il physical power bonus, [[Statistics#^a90e40|max health]]
+>> - 15 str -> 0% phys. power
 >> - 30 str -> 18% phys. power
 >> - 40 str -> 25% phys. power ^fdd568
 >
 >>[!tip|no-i] Vigor
 >> Governa il recupero vita e [[Statistics#^a90e40|max health]]
+>> - 15 vig -> 0%
 >> - 30 vig -> 100% (doppio della rigenerazione normale)
 >
 >>[!example|no-i] Agility
->>Governa la velocità di movimento, [[Statistics#^b0e358|Action speed]], [[Statistics#^0ef567|Regular Interaction speed]], 
+>>Governa la velocità di movimento, [[Statistics#^b0e358|Action speed]], [[Statistics#^0ef567|Regular Interaction speed]]
 >> - 15 agi -> 0 bonus
 >> - 30 agi -> 10 bonus (rallentamento di uno spellbook)
+>> 
+>> __Move speed è cappatta a 330__
 >
 >>[!abstact|no-i] Dexterity
 >>Governa [[Statistics#^b0e358|Action speed]], manual dexterity, item equip speed
@@ -84,7 +92,8 @@ Lo scaling delle statistiche varia in base al intervallo, quindi si hanno dimini
 >> - 15 knw -> 0 bonus casting speed, 60% recovery
 >> - 35 knw -> 50% bonus casting speed, 120% recovery
 >> - 45 knw -> 75% bouns casting speed, 135% recovery
->> Memory capacity = Knowledge 
+>> 
+>> __Memory capacity = Knowledge__ 
 >> - 10 knw -> 10 mem capacity
 >
 >>[!note|no-i] Resourcefulness

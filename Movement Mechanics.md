@@ -13,6 +13,30 @@
 > 
 > __Esiste il b-hopping__ utilizzare per mantenere il momentum mentre si è rallentato
 
+---
+>[!example|no-i] Spacing
+> __la distanza tra tu e il nemico__, controllare questa distanza __determina il combattimento__
+> - molto __dipendente dalla velocità di movimento__
+> 
+> chi è più veloce può:
+> - __baitare attacchi__
+> - reagire __efficacemente ai comportamenti del nemico__
+> 
+> esempi: un personaggio piu veloce di un altro, puo reagire se tenta di curarsi o raggiungerlo se tenta di scappare o puo resettare il combattimento
+
+>[!note|no-i] Effective Range
+> la zona dove la tua __classe è piu efficacie ed è meno esposta a prendere danno__
+> 
+>![[Pasted image 20240714155530.png]]
+>
+>ogni classe ha un range preferito dove vuole avere il suo nemico:
+>- __fighter__: short range appena al di fuori del suo raggio di attacco se il nemico è una classe melee
+>- __mage__: mid range in range per la spell zap
+>- __ranger__: mid to long range in base alla situazione
+>- ...
+
+--- 
+
 >[!tip | c-p-lg] Schivare
 > si può __manipolare il corpo__ per evitare attacchi
 > - jump crouching
@@ -29,47 +53,19 @@
 > di solito una delle due tecniche funziona o una combinazione, 
 > __evitare gli attacchi o pararli è ancora più efficiente__
 
-<br>
+---
 
 ## Ranged
-Preferire ambienti aperti e molto spazio per farsi inseguire
->[!columns|no-i no-t]
->>[!warning|no-i] Spacing
->> mantenersi sempre abbastanza lontani per __non essere presi mentre si carica il colpo__ dopo
->
->>[!tip| no-i c-p-med] Usare l'environment
->> porte e strettoie sono __colpi gratuiti__
->> - sopratutto per evitare coltelli da lancio o asce che rallentano
-
-
+Preferire __ambienti aperti e molto spazio per farsi inseguire__
+- essere colpiti si viene rallentati, sopratutto quando si viene colpiti da caltelli da lancio o asce
+>[!tip| no-i c-p-med] Usare l'environment
+> porte e strettoie sono __colpi gratuiti__
+> - sopratutto per evitare coltelli da lancio o asce che rallentano
 
 <br>
 
 ## Melee
-Preferire ambienti stretti e mettere i nemici al angolo
+Preferire __ambienti stretti e mettere i nemici al angolo__
 - facile schivare gli attacchi da distanza
-- se non si può schivare un attacco avvicinarsi a
+
 Ingaggio utilizzare armi da lontano o coltelli da lancio
-tre punti principali:
-
->[!warning|no-i] Spacing
-> saper gestire lo spacing consente di fare __attacchi e fuga evitando molti danni__
-> - attaccando e uscendo dal raggio di contrattacco
-> 
-> il __danno__ delle armi dipende dal __punto con cui colpiscono__
-> - se ci si avvicina ai personaggi si 
-> - armi lunge permettono di attaccare __senza entrare__ in range d'attacco del nemico
-> 
-> per un personaggio melee mantenersi a distanza dipende __molto dalla velocità di movimento__
-
->[!tip | no-i] Contrattacchi, Parate e Baiting
-> Lo scudo non protegge bene come fa vedere il modello __bisogna puntarlo verso l'attacco__
-> - __attenzione alle gambe sono sempre scoperte__
-> - se si attacca subito dopo ad una parata il __colpo è assicurato__ 
-> 	- coltelli e armi piccole sono molto veloci
-> - se si ha la velocità far credere al nemico che si è in range e farlo __swingare a vuoto garantisce una finestra di attacco__
-> 	- mini rincorsa + salto + attacco
-
->[!fail| no-i c-p-med] Abilità
-> le abilità che servono per gap-close come sprint per il guerriero
-> - utili usati anche da vicino per confondere l'avversario

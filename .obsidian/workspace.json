@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e9444f57334bdaf",
+        "id": "a7d5a290ee2f0d48",
         "type": "tabs",
         "children": [
           {
-            "id": "29127ecab9895890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movement Mechanics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3f58707c12d438d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movement Mechanics.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0db23f5040bb083a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fa9280ab4d3851a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e092c6571d36b209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9efe8bff5d41c39",
+            "id": "4c4a373a8954bd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics.md",
+                "file": "Fighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics.md",
+                "file": "Fighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics.md"
+                "file": "Fighter.md"
               }
             }
           },
@@ -218,15 +157,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3a640ed8a2827cf",
+  "active": "4c4a373a8954bd28",
   "lastOpenFiles": [
-    "Statistics.pdf",
+    "Fighter.md",
     "Movement Mechanics.md",
+    "Statistics.pdf",
     "Movement Mechanics.pdf",
     "README.md",
     "Statistics.md",
+    "z_Attachments/Pasted image 20240714155530.png",
     "z_Attachments/Pasted image 20240622153844.png",
-    "Fighter.md",
     "Wizard.md",
     "Welcome.md",
     "z_Attachments",
