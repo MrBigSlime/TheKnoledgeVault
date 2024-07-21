@@ -6,11 +6,9 @@ Projectile Protection: con armatura poco utile
 adrenaline spike: bassa utilità
 combo attack: dopo 2 attacchi da un 30% phis power
 
-
+Perk utlili:
 Slayer: ha un play-style dedicato 
 Dual wiled: usato con slayer
-
-Perk utlili:
 Barricade: lo stato di difesa sono: scudo alzato o spada lunga alzata
 quindi molto utile in duos e trios quando si viene assaltati da più persone
 Sword mastery: utile per arming sword e la velocità mentre si è in stato di difesa si applica solo alla spada lunga
@@ -32,8 +30,50 @@ Sprint: poco utile meglio di nulla, usata in build per slayer
 Taunt: aggiunge un 10% riduzione sia fisica che magica
 
 
+## Builds
+
+>[!note|no-i] Full-Plate
+>Molta vita molta riduzione fisica molto noob-friendly poco danno
+> Armatura: tutto plate con statistiche:
+> - Vigor -> Max Health -> True Phys damage/Action Speed/Additional Phys damage -> Strength -> Will 
+> 	- will per aumentare la durata di taut e da magic resist
+> 
+> Perks: Counter Attack, Shield Mastery, Swift, Barricade/Weapon Mastery/Sword Mastery
+> - l'ultimo perk dipende da come si preferisce giocare
+>
+>Abilità: Second Wind, Taunt/Sprint
+>
+>Armi: Spada e scudo e crossbow/survival bow
+>
+>Utilizzo:
+>- __vincere il mid range usando l'arco/balestra poi pushare__
+>	- __attenzione__ a trappole ed essere kitati
+>- __Sempre__ parare il primo colpo, sia barbaro che ladro __dipendono da quelli__ per vincere gli 1v1
+
+<br>
+
+>[!info|no-i]Slayer
+> Output di danno altissimo necessita di essere veloce
+> Armatura:
+> - Agi/Movement speed -> Dex -> Additional/True damage -> armor pen
+> 
+> Perks: Sword mastery,Slayer, Dual wield, Combo attack/Weapon mastery
+> - weapon mastery per avere piu danno con la balestra
+>
+> Abilità: Adrenaline rush, Victory strike, Second wind, Sprint
+> - adrenaline rush e vicotry strike per massimizzare il danno
+> 	- tech vitory strike
+>
+> Armi: crossbow, 2 spade
+> Utilizzo:
+> - usare la velocità per avvicinarsi o spingere il nemico in un angolo 
+> - usando victory strike e adrenaline rush semplifica il clearing dei mob
+> - victory strike consente di curarsi con i mob senza down time
+> 
 ## Statistiche
-Vigor -> Max Health -> True Phys damage -> Strenght -> Will 
+
+
+
 HP, Move Speed, Physical e Magical Dmg reduction 
 
 

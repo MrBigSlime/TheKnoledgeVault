@@ -69,3 +69,5 @@ Preferire __ambienti stretti e mettere i nemici al angolo__
 - facile schivare gli attacchi da distanza
 
 Ingaggio utilizzare armi da lontano o coltelli da lancio
+
+spingere il nemico in un angolo dove non può più scappare, attenzione alle porte

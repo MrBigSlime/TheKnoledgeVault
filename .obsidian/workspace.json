@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fighter.md",
+                "file": "Movement Mechanics.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fighter.md",
+                "file": "Movement Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fighter.md",
+                "file": "Movement Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fighter.md"
+                "file": "Movement Mechanics.md"
               }
             }
           },
@@ -160,14 +160,14 @@
   "active": "4c4a373a8954bd28",
   "lastOpenFiles": [
     "Fighter.md",
+    "Wizard.md",
+    "Statistics.md",
     "Movement Mechanics.md",
     "Statistics.pdf",
     "Movement Mechanics.pdf",
     "README.md",
-    "Statistics.md",
     "z_Attachments/Pasted image 20240714155530.png",
     "z_Attachments/Pasted image 20240622153844.png",
-    "Wizard.md",
     "Welcome.md",
     "z_Attachments",
     "DarkAndDarkerMechanics"
