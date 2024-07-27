@@ -27,7 +27,10 @@
 >[!note|no-i] Effective Range
 > la zona dove la tua __classe è piu efficacie ed è meno esposta a prendere danno__
 > 
->![[Pasted image 20240714155530.png]]
+>![[Pasted image 20240727215046.png]]
+>- linea rossa/rosa short range
+>- linea azzurro-viola medium range
+>- linea verde acqua long range 
 >
 >ogni classe ha un range preferito dove vuole avere il suo nemico:
 >- __fighter__: short range appena al di fuori del suo raggio di attacco se il nemico è una classe melee
@@ -49,7 +52,8 @@
 > il tenersi a distanza per evitare gli attacchi nemici
 > PVE __evitare l'attacco e rispondere__
 > - attaccare e __allontanarsi__
-> - attaccare e __girargli intorno__
+> - attaccare e __girargli intorno__, utile con velocità di movimento alta
+> 
 > di solito una delle due tecniche funziona o una combinazione, 
 > __evitare gli attacchi o pararli è ancora più efficiente__
 
@@ -69,5 +73,5 @@ Preferire __ambienti stretti e mettere i nemici al angolo__
 - facile schivare gli attacchi da distanza
 
 Ingaggio utilizzare armi da lontano o coltelli da lancio
-
-spingere il nemico in un angolo dove non può più scappare, attenzione alle porte
+- __Avere sempre armi da lontano__
+__spingere il nemico in un angolo dove non può più scappare, attenzione alle porte__

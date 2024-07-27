@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movement Mechanics.md",
-                "mode": "source",
+                "file": "Ranger.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement Mechanics.md",
+                "file": "Ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movement Mechanics.md",
+                "file": "Ranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movement Mechanics.md"
+                "file": "Ranger.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   },
   "active": "4c4a373a8954bd28",
   "lastOpenFiles": [
-    "Fighter.md",
-    "Wizard.md",
     "Statistics.md",
+    "Fighter.md",
+    "Ranger.md",
     "Movement Mechanics.md",
+    "z_Attachments/Pasted image 20240727215046.png",
+    "Wizard.md",
     "Statistics.pdf",
     "Movement Mechanics.pdf",
     "README.md",
