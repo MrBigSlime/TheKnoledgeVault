@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ranger.md",
+                "file": "DarkAndDarker/Fighter.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ranger.md",
+                "file": "DarkAndDarker/Fighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ranger.md",
+                "file": "DarkAndDarker/Fighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ranger.md"
+                "file": "DarkAndDarker/Fighter.md"
               }
             }
           },
@@ -157,17 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c4a373a8954bd28",
+  "active": "a3a640ed8a2827cf",
   "lastOpenFiles": [
-    "Statistics.md",
-    "Fighter.md",
-    "Ranger.md",
-    "Movement Mechanics.md",
+    "DarkAndDarker",
+    "DarkAndDarker/Ranger.md",
+    "DarkAndDarker/Statistics.md",
+    "DarkAndDarker/Fighter.md",
+    "DarkAndDarker/Movement Mechanics.md",
     "z_Attachments/Pasted image 20240727215046.png",
-    "Wizard.md",
+    "DarkAndDarker/Wizard.md",
     "Statistics.pdf",
     "Movement Mechanics.pdf",
-    "README.md",
+    "DarkAndDarker/README.md",
     "z_Attachments/Pasted image 20240714155530.png",
     "z_Attachments/Pasted image 20240622153844.png",
     "Welcome.md",
