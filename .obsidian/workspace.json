@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EscapeFromTarkov/Stims.md",
-                "mode": "preview",
+                "file": "EscapeFromTarkov/Tips pvp.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EscapeFromTarkov/Stims.md",
+                "file": "EscapeFromTarkov/Tips pvp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EscapeFromTarkov/Stims.md",
+                "file": "EscapeFromTarkov/Tips pvp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EscapeFromTarkov/Stims.md"
+                "file": "EscapeFromTarkov/Tips pvp.md"
               }
             }
           },
@@ -170,8 +170,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3a640ed8a2827cf",
+  "active": "5bb74511f834af0d",
   "lastOpenFiles": [
+    "z_Attachments/Pasted image 20240816145556.png",
+    "EscapeFromTarkov/Helmets.md",
+    "EscapeFromTarkov/Tips pvp.md",
+    "EscapeFromTarkov/Plates.md",
+    "EscapeFromTarkov/Stims.md",
+    "z_Attachments/Pasted image 20240816142637.png",
+    "z_Attachments/Pasted image 20240816142511.png",
+    "z_Attachments/Pasted image 20240816142258.png",
+    "z_Attachments/Pasted image 20240816142043.png",
+    "z_Attachments/Pasted image 20240816141634.png",
+    "z_Attachments/Pasted image 20240816141508.png",
+    "z_Attachments/Pasted image 20240816141315.png",
+    "z_Attachments/Pasted image 20240816140857.png",
+    "z_Attachments/Pasted image 20240816140444.png",
     "z_Templates/Dimensions/wtall.md",
     "z_Templates/Dimensions/ws-med.md",
     "z_Templates/Dimensions/wmed.md",
@@ -186,30 +200,18 @@
     "z_Templates/Callout Adjustement",
     "z_Templates",
     "z_Attachments/Pasted image 20240815145153.png",
-    "z_Attachments/Pasted image 20240815121950.png",
-    "z_Attachments/Pasted image 20240815121730.png",
-    "z_Attachments/Pasted image 20240815121445.png",
-    "z_Attachments/Pasted image 20240815121244.png",
     "DarkAndDarker/Fighter.md",
-    "EscapeFromTarkov/Stims.md",
     "DarkAndDarker/Ranger.md",
     "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
-    "EscapeFromTarkov/Helmets.md",
-    "EscapeFromTarkov/Plates.md",
-    "z_Attachments/Pasted image 20240815000932.png",
-    "z_Attachments/Pasted image 20240815000925.png",
     "EscapeFromTarkov/To do before wipe.md",
     "EscapeFromTarkov",
     "DarkAndDarker/Movement Mechanics.md",
     "DarkAndDarker",
     "DarkAndDarker/Statistics.md",
-    "z_Attachments/Pasted image 20240727215046.png",
     "DarkAndDarker/Wizard.md",
     "Statistics.pdf",
     "Movement Mechanics.pdf",
     "DarkAndDarker/README.md",
-    "z_Attachments/Pasted image 20240714155530.png",
-    "z_Attachments/Pasted image 20240622153844.png",
     "Welcome.md",
     "z_Attachments",
     "DarkAndDarkerMechanics"
