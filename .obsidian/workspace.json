@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
-                "mode": "source",
+                "file": "EscapeFromTarkov/Weapon Modding.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "5bb74511f834af0d",
+            "id": "91b183cf4b8062d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EscapeFromTarkov/Tips pvp.md",
-                "mode": "source",
+                "file": "EscapeFromTarkov/Helmets.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EscapeFromTarkov/Tips pvp.md",
+                "file": "EscapeFromTarkov/Helmets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EscapeFromTarkov/Tips pvp.md",
+                "file": "EscapeFromTarkov/Helmets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EscapeFromTarkov/Tips pvp.md"
+                "file": "EscapeFromTarkov/Helmets.md"
               }
             }
           },
@@ -170,13 +170,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bb74511f834af0d",
+  "active": "91b183cf4b8062d0",
   "lastOpenFiles": [
-    "z_Attachments/Pasted image 20240816145556.png",
-    "EscapeFromTarkov/Helmets.md",
+    "EscapeFromTarkov/Good Barters.md",
+    "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
+    "EscapeFromTarkov/Ammo.md",
+    "EscapeFromTarkov/Stims.md",
+    "EscapeFromTarkov/Quests.md",
     "EscapeFromTarkov/Tips pvp.md",
     "EscapeFromTarkov/Plates.md",
-    "EscapeFromTarkov/Stims.md",
+    "EscapeFromTarkov/Helmets.md",
+    "EscapeFromTarkov/To do before wipe.md",
+    "EscapeFromTarkov/Weapon Modding.md",
+    "z_Attachments/Pasted image 20240816145556.png",
     "z_Attachments/Pasted image 20240816142637.png",
     "z_Attachments/Pasted image 20240816142511.png",
     "z_Attachments/Pasted image 20240816142258.png",
@@ -199,11 +205,8 @@
     "z_Templates/Dimensions",
     "z_Templates/Callout Adjustement",
     "z_Templates",
-    "z_Attachments/Pasted image 20240815145153.png",
     "DarkAndDarker/Fighter.md",
     "DarkAndDarker/Ranger.md",
-    "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
-    "EscapeFromTarkov/To do before wipe.md",
     "EscapeFromTarkov",
     "DarkAndDarker/Movement Mechanics.md",
     "DarkAndDarker",
@@ -212,7 +215,6 @@
     "Statistics.pdf",
     "Movement Mechanics.pdf",
     "DarkAndDarker/README.md",
-    "Welcome.md",
     "z_Attachments",
     "DarkAndDarkerMechanics"
   ]
