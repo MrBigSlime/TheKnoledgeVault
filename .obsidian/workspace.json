@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d5a290ee2f0d48",
+        "id": "7bb2e68b390c1396",
         "type": "tabs",
         "children": [
           {
-            "id": "4af7e8ce0a7bc038",
+            "id": "c7482b01b25a155f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EscapeFromTarkov/Weapon Modding.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "91b183cf4b8062d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EscapeFromTarkov/Helmets.md",
-                "mode": "preview",
+                "file": "EscapeFromTarkov/Good Barters.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EscapeFromTarkov/Helmets.md",
+                "file": "EscapeFromTarkov/Good Barters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EscapeFromTarkov/Helmets.md",
+                "file": "EscapeFromTarkov/Good Barters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EscapeFromTarkov/Helmets.md"
+                "file": "EscapeFromTarkov/Good Barters.md"
               }
             }
           },
@@ -170,18 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91b183cf4b8062d0",
+  "active": "c7482b01b25a155f",
   "lastOpenFiles": [
-    "EscapeFromTarkov/Good Barters.md",
-    "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
     "EscapeFromTarkov/Ammo.md",
-    "EscapeFromTarkov/Stims.md",
-    "EscapeFromTarkov/Quests.md",
     "EscapeFromTarkov/Tips pvp.md",
+    "EscapeFromTarkov/Weapon Modding.md",
+    "EscapeFromTarkov/Quests.md",
+    "EscapeFromTarkov/To do before wipe.md",
+    "EscapeFromTarkov/Good Barters.md",
+    "EscapeFromTarkov/Stims.md",
     "EscapeFromTarkov/Plates.md",
     "EscapeFromTarkov/Helmets.md",
-    "EscapeFromTarkov/To do before wipe.md",
-    "EscapeFromTarkov/Weapon Modding.md",
+    "EscapeFromTarkov/Gear Fear and Solo Anxiety.md",
     "z_Attachments/Pasted image 20240816145556.png",
     "z_Attachments/Pasted image 20240816142637.png",
     "z_Attachments/Pasted image 20240816142511.png",
